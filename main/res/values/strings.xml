@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CourtCounter</string>
+    <string name="title">BASKET BALL COUNTER</string>
+    <string name="free_throw">Free Throw</string>
+    <string name="_2_pointer">2 pointer</string>
+    <string name="_3_pointer">3 pointer</string>
+    <string name="free_throwB">Free Throw</string>
+    <string name="_2_pointerB">2 pointer</string>
+    <string name="_3_pointerB">3 pointer</string>
+    <string name="reset_button">end game</string>
+    <string name="team_b_s_name">TEAM B NAME</string>
+    <string name="team_a_s_name">TEAM A NAME</string>
+</resources>
